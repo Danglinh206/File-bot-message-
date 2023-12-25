@@ -1,0 +1,83 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": true,
+    "adminPaseOnly": false,
+    "encryptAppstate": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "61554593084441",
+    "PASSWORD": "soibuon2006",
+    "OTPKEY": "",
+    "BOTNAME": " 𝙼𝚊𝚛𝚒𝚜 ",
+    "AMDIN_NAME": "Đ.V.LỊNH",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/culo2006",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100069864945865"
+    ],
+    "NDH": [
+        "",
+        "100080332667985",
+        "100072798777835"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Safari/537.36"
+    },
+    "version": "1.2.15",
+    "daily": {
+        "cooldownTime": 300000
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 60
+        },
+        "delayUnsend": 60
+    },
+    "radio": {
+        "YOUTUBE_API": "AIzaSyDInP_dJ_U7zZuGyrmKvu0TQ_SVCWeX-MU"
+    },
+    "tenngaunhien": {
+        "APIKEY": "mi451266190"
+    },
+    "ytb": {
+        "YOUTUBE_API": "AIzaSyDInP_dJ_U7zZuGyrmKvu0TQ_SVCWeX-MU"
+    },
+    "weather": {
+        "OPEN_WEATHER": "196ac91264f90df6590b46309556229f"
+    },
+    "work": {
+        "cooldownTime": 600000
+    },
+    "ảnh": {
+        "cooldownTime": 1200000
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "ndhOnly": false
+}
